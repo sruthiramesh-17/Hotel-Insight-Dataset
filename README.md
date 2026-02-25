@@ -1,4 +1,5 @@
 Hotel Revenue & Booking Analysis Dashboard | Power BI
+
 📌 Project Summary
 
 Developed an interactive Business Intelligence dashboard using Power BI to analyze hotel booking data, revenue trends, and customer behavior.
